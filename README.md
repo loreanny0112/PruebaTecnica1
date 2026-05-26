@@ -52,10 +52,10 @@ Se implementó un sistema básico de autenticación utilizando JWT (JSON Web Tok
 
 El frontend consume la API REST mediante Axios, realizando solicitudes HTTP:
 
-- GET → Obtener datos
-- POST → Crear registros
-- PUT → Actualizar registros
-- DELETE → Eliminar registros
+- GET -> Obtener datos
+- POST -> Crear registros
+- PUT -> Actualizar registros
+- DELETE -> Eliminar registros
 
 # Base de Datos
 
