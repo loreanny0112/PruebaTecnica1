@@ -1,0 +1,6 @@
+{
+  "name": "Panel de Gestión de Productos y Ventas",
+  "description": "Panel administrativo para gestionar productos, clientes y registrar ventas según los requerimientos de la prueba técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
